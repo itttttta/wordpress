@@ -1,0 +1,32 @@
+/*
+Theme Name: 美女
+Theme URI: www.fuliziyuanba.com
+Description: 福利站
+Version: 0.1
+Author: itta
+Author URI: www.fuliziyuanba.com
+Tags: 美女
+*/
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body{
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    background-color:#b0e0e6;
+}
+img{
+    max-width:200px;
+    max-height:200px
+}
+.text{
+    color: aqua;
+    background-color: #d0e4fe;
+}
+
+p{color: blue;}
+
